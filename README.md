@@ -1,3 +1,14 @@
+## Project Info
+
+This is Search app
+
+In project we can sort by 
+
+1.Title
+2.Author
+3.Comments
+4.Points
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
